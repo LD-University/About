@@ -1,4 +1,4 @@
-[Telegram](https://t.me/lduniver)
+[Telegram](https://t.me/lduniver)  
 **English (UK)** | [简体中文（中国大陆）](README-zh-cn.md)
 
 # About
@@ -9,7 +9,7 @@
 Lazy Dog University, also known as LD University or 懒狗大学, is a virtual global comprehensive collegiate university.  
 We want to reduce the involution of students and enhance their own abilities.
 We want the definition of success to be less about quantifiable virtual products but more about the students themselves.
-We want to spend leisurely days without being disturbed.
+We want to let everyone to spend leisurely days without being disturbed.
 
 ## How to apply Lazy Dog University
 

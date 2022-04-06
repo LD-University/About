@@ -4,7 +4,7 @@
 # About
 
 - **About**
-- [What are Home colleges?](Colleges.md)
+- [What are Home colleges?](https://github.com/HMUniversity/About/blob/main/Colleges.md)
 
 Lazy Dog University, also known as LD University or 懒狗大学, is a virtual global comprehensive collegiate university.  
 We want to reduce the involution of students and enhance their own abilities.

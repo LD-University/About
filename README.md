@@ -20,15 +20,6 @@ If your application is accepted, you will receive an offer email with an invitat
 Alternatively, you can try [this link](https://github.com/orgs/LD-University/invitation?via_email=1).
 If neither work for you, please contact us directly.
 
-### Apply from UCAS
-
-If you try use UCAS to apply Lazy Dog University, we are so sorry that we can't apply from UCAS.
-
-## CAS
-
-CAS, also known as Confirmation of Acceptance for Studies, is an electronic acceptance letter.
-We're so sorry that we also can't apply from CAS.
-
 ## Alumni Mail
 
 No, we have not any alumni email. Why? because we are lazy dog, and we are too lazy to setup alumni email.
